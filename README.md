@@ -1,6 +1,7 @@
 # pertemuan_4
 
-A new Flutter project.
+NAMA  : Salom sefanya onibala
+NIMM  : 2209106084
 
 ## Getting Started
 
